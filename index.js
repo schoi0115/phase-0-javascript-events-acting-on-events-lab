@@ -27,3 +27,7 @@ document.addEventListener('keydown', function(e) {
     moveDodgerRight()
   }
 })
+
+dodger.style.backgroundColor = "#FF69B4"; 
+dodger.style.bottom = "0px"; 
+dodger.style.left = "0px";
